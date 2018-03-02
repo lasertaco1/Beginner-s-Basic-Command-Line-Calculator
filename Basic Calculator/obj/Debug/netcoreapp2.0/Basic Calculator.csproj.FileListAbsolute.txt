@@ -1,0 +1,11 @@
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp2.0\Basic Calculator.deps.json
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp2.0\Basic Calculator.runtimeconfig.json
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp2.0\Basic Calculator.runtimeconfig.dev.json
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp2.0\Basic Calculator.dll
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\bin\Debug\netcoreapp2.0\Basic Calculator.pdb
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp2.0\Basic Calculator.csprojResolveAssemblyReference.cache
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp2.0\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp2.0\Basic Calculator.AssemblyInfoInputs.cache
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp2.0\Basic Calculator.AssemblyInfo.cs
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp2.0\Basic Calculator.dll
+C:\Users\dgari\Desktop\Basic Calculator\Basic Calculator\Basic Calculator\obj\Debug\netcoreapp2.0\Basic Calculator.pdb
